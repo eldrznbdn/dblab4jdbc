@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/db_jdbclaba4
+    username: root
+    password: wikileaks123
+    driver-class-name: com.mysql.cj.jdbc.Driver
